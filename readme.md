@@ -1,3 +1,3 @@
 # Introduction
 
-- Learing Moleculer - Progressive microservices framework for Node.js
+- Learning Moleculer - Progressive microservices framework for Node.js
